@@ -10,6 +10,7 @@ Developed as a community asset
 ## Spoofing
 
 * [Modbus-VCR](https://github.com/reidmefirst/modbus-vcr/) - The Modbus VCR records and replays Modbus traffic
+* [Ettercap plugin for IEC 60870-5-104](https://github.com/PMaynard/ettercap-104-mitm) - Ettercap Plugin for Man-In-The-Middle Attacks on IEC 60870-5-104 
 
 ## PLC Injection
 
@@ -41,6 +42,8 @@ Developed as a community asset
 * [random modbus tools](https://github.com/arnaudsoullie/funwithmodbus0x5a) - ICS Village talk at DEFCON 25
 
 ## Other
+
+* [Siemens S7 PLC Bootloader Code Execution Utility](https://github.com/RUB-SysSec/SiemensS7-Bootloader) - Non-invasive arbitrary code execution on the Siemens S7 PLC by using an undocumented bootloader protocol over UART. Siemens assigned SSA-686531 (CVE-2019-13945) for this vulnerability. Affected devices are Siemens S7-1200 (all variants including SIPLUS) and S7-200 Smart.
 
 Note: The following tools haven't necessarily been utilized in an ICS context, but could be helpful.
 
